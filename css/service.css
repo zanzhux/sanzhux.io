@@ -1,0 +1,126 @@
+.background1 {
+    width: 100%;
+    height: 400px;
+    padding-top: 120px;
+    box-sizing: border-box;
+    background: url(../image/bg11.png)no-repeat center;
+}
+
+
+
+.background2 {
+    width: 100%;
+    height: 792px;
+    padding-top: 40px;
+    box-sizing: border-box;
+    background: url(../image/bg22.png)no-repeat center;
+}
+
+.background3 {
+    width: 100%;
+    height: 661px;
+    background: url(../image/bg33.png)no-repeat center;
+}
+
+.fuwu {
+    width: 600px;
+    margin-left: 630px;
+}
+
+#lnfw p {
+    color: #666666;
+    text-align: center;
+    line-height: 40px;
+}
+
+#lnfw {
+    margin-top: 40px;
+}
+
+#lnfw img {
+    margin: 0 auto;
+    margin-top: 60px;
+    margin-bottom: 40px;
+}
+
+.four {
+    width: 270px;
+    overflow: hidden;
+    float: left;
+    margin-right: 40px;
+}
+
+.four img {
+    margin-left: 80px;
+    margin-bottom: 40px;
+}
+
+.four p {
+    text-align: left;
+    color: white;
+    font-size: 20px;
+}
+
+.four span {
+    line-height: 26px;
+    color: white;
+    font-size: 16px;
+}
+
+.six {
+    width: 130px;
+    height: 110px;
+    color: #666666;
+    text-align: center;
+    float: left;
+    margin: 135px;
+    overflow: hidden;
+}
+
+.six p {
+    text-align: center;
+    font-size: 16px;
+    color: #666666;
+}
+
+.zxbx {
+    width: 600px;
+    height: 600px;
+    color: white;
+    font-size: 20px;
+    margin-left: 600px;
+    border-top: 1px solid #666666;
+}
+
+.zxbx p {
+    margin-left: 100px;
+    line-height: 60px;
+    display: inline-block;
+}
+
+.zxbx input {
+    width: 260px;
+    height: 30px;
+    display: inline-block;
+    margin-left: 10px;
+}
+
+.w {
+    width: 1200px;
+    margin: 0 auto;
+}
+
+.tijiao {
+    width: 100px;
+    height: 40px;
+    border-radius: 40px;
+    text-align: center;
+    line-height: 40px;
+    margin-left: 220px;
+    margin-top: 40px;
+    background-color: #7ADFA9;
+}
+
+.tijiao a {
+    color: white;
+}
